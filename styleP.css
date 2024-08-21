@@ -8,7 +8,7 @@
 body {
     font-family: 'Raleway', sans-serif;
     background-color: #141414;
-    background-image: url(./PROJETOS/galeriadeImagens/imagens/image.jpg);
+    background-image: url(.imagens/image.jpg);
     background-size: cover;
     color: #fff;
     display: flex;
@@ -60,7 +60,7 @@ section {
 }
 
 .hero {
-    background: url('./PROJETOS/galeriadeImagens/imagens/hero...webp') no-repeat center center/cover;
+    background: url('./imagens/hero...webp') no-repeat center center/cover;
     padding: 100px 20px;
     color: #fff;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
